@@ -1,0 +1,3 @@
+plugins {
+    id 'codequery.java-conventions'
+}

@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group = 'io.codequery'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+java {
+    toolchain {
+        version = JavaLanguageVersion.of(17)
+    }
+}

@@ -1,0 +1,3 @@
+rootProject.name = 'codequery-platform'
+
+include 'codequery-app', 'codequery-ui'
